@@ -10,7 +10,7 @@ function Navbar() {
       >
         <div class="container-fluid">
           <Link class="navbar-brand" to="/">
-            GUVI
+            PKMR
           </Link>
           <button
             class="navbar-toggler"
